@@ -9,6 +9,7 @@ The table below contains hackathon names (alphabetical) with website links, loca
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016), 2017 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015, 2017 |
 | [HackDelft](http://hackdelft.com) | Delft | 2017 |
+| [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/), 2017 |
 
 ## Contributing
