@@ -7,6 +7,7 @@ The table below contains hackathon names (alphabetical) with website links, loca
 | Hackathon | Location | Years
 |---|---|---|
 | [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
+| [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016), 2017 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015, 2017 |
 | [HackDelft](http://hackdelft.com) | Delft | 2017 |
