@@ -4,15 +4,15 @@ Want to attend a hackathon in the Netherlands? We're building the most comprehen
 
 The table below contains hackathon names (alphabetical) with website links, locations, and the years in which they've run. Do you know about a hackathon that's not on this list? Check out the contribution guide below.
 
-| Hackathon | Location | Years
-|---|---|---|
-| [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
-| [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
-| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016), 2017 |
-| [FuseHack](http://fusehack.com/) | Amsterdam | 2015, 2017 |
-| [HackDelft](http://hackdelft.com) | Delft | 2017 |
-| [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
-| [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/), 2017 |
+| Hackathon | Location | Past Editions | Upcoming Editions |
+|---|---|---|---|
+| [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) | |
+| [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) | |
+| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
+| [FuseHack](http://fusehack.com/) | Amsterdam | 2015 | 2017 |
+| [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
+| [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 | |
+| [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
 
 ## Contributing
 
