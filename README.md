@@ -12,6 +12,7 @@ The table below contains hackathon names (alphabetical) with website links, loca
 | [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 | 2017 |
+| [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 | |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
