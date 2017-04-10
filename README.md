@@ -13,6 +13,7 @@ The table below contains hackathons that have announced their next editions, com
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 | 2017 |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | | 2017 (May 12 - 14) |
+| [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | | 2017 (May 22 - 24) |
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
