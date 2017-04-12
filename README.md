@@ -30,6 +30,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) | |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 | |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
+| [WTHX](https://wthx.org/) | The Hague | [2014](https://wthx.org/#prevEditions), [2015](https://wthx.org/#prevEditions), 2016 |
 
 ## Contributing
 
