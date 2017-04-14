@@ -18,6 +18,7 @@ The table below contains hackathons that have announced their next editions, com
 | [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
+| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9-11) |
 
 ## Past Hackathons
 
