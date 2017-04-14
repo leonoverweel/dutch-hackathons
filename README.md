@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9-11) |
 | [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 | 2017 |
