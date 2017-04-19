@@ -1,4 +1,4 @@
-# hackathonlist.nl - List of Dutch Hackathons
+# Dutch Hackathons - hackathonlist.nl
 
 Want to attend a hackathon in the Netherlands? Together, we're building the most comprehensive list of Dutch 'thons. Do you know about a hackathon that's not on this list? Check out the [contribution guide](#contributing) below.
 
