@@ -1,6 +1,6 @@
-# Dutch Hackathons
+# hackathonlist.nl - List of Dutch Hackathons
 
-Want to attend a hackathon in the Netherlands? We're building the most comprehensive list of Dutch 'thons. Do you know about a hackathon that's not on this list? Check out the contribution guide below.
+Want to attend a hackathon in the Netherlands? Together, we're building the most comprehensive list of Dutch 'thons. Do you know about a hackathon that's not on this list? Check out the [contribution guide](#contributing) below.
 
 ## Upcoming Hackathons
 
@@ -35,4 +35,4 @@ This table contains hackathons for which no future edition has been announced. M
 
 ## Contributing
 
-To contribute a hackathon, please fork this repository and add it, maintaining the structure of the table above. Then create a PR that mentions what you've changed, and it'll be merged ASAP!
+To contribute a hackathon, please fork [this repository](https://github.com/leonoverweel/dutch-hackathons) and add it, maintaining the structure of the table above. Then create a PR that mentions what you've changed, and it'll be merged (and published here) ASAP!
