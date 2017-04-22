@@ -25,6 +25,7 @@ This table contains hackathons for which no future edition has been announced. M
 
 | Hackathon | Location | Past Editions |
 |---|---|---|
+| [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016 |
 | [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
 | [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
