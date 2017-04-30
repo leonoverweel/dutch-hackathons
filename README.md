@@ -33,6 +33,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
+| [WHAT Datathon](http://what-conference.com/datathon/) | Amsterdam | 2017 |
 | [WTHX](https://wthx.org/) | The Hague | [2014](https://wthx.org/#prevEditions), [2015](https://wthx.org/#prevEditions), 2016 |
 | [Xomnia Datathon](http://datathon.xomnia.com/) | Amsterdam | [2016](https://web.archive.org/web/20161004233200/http://datathon.xomnia.com/) |
 
