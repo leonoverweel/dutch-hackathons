@@ -18,6 +18,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
 | [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | | 2017 (May 19 - 20) |
+| [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | | 2017 (May 20 - 21) |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
 | [Social Hackathon](http://socialhackathon.nl) | Rotterdam | | 2017 (May 20) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
