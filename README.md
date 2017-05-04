@@ -11,7 +11,7 @@ The table below contains hackathons that have announced their next editions, com
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
 | [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
 | [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
-| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | | 2017 (December 9 - 11) |
+| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | | 2017 (May 12 - 14) |
@@ -34,7 +34,6 @@ This table contains hackathons for which no future edition has been announced. M
 | [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
 | [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
-| [Dutch Health Hackathon](http://www.dutchhealthhackathon.com) | Leeuwarden | 2015 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
