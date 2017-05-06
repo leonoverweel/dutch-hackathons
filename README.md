@@ -8,21 +8,21 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
-| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
-| [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
-| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
-| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
-| [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | | 2017 (May 12 - 14) |
-| [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | | 2017 (May 22 - 24) |
-| [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
+| [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
 | [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | | 2017 (May 19 - 20) |
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | | 2017 (May 20 - 21) |
-| [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
 | [Social Hackathon](http://socialhackathon.nl) | Rotterdam | | 2017 (May 20) |
+| [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | | 2017 (May 22 - 24) |
+| [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
+| [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
+| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
+| [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
+| [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
+| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
+| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
 
 ## Past Hackathons
 
