@@ -16,6 +16,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Social Hackathon](http://socialhackathon.nl) | Rotterdam | | 2017 (May 20) |
 | [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | | 2017 (May 22 - 24) |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
+| [International Festival of Technology Hackathon](http://ifot-delft.com/en/events/hackathon) | Delft | | 2017 (June 7 - 9) |
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
 | [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
