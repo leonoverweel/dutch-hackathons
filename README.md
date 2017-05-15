@@ -8,8 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | | 2017 (May 12 - 14) |
-| [HackDelft](http://hackdelft.com) | Delft | | 2017 (May 13 - 14) |
 | [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
 | [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | | 2017 (May 19 - 20) |
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | | 2017 (May 20 - 21) |
@@ -36,6 +34,8 @@ This table contains hackathons for which no future edition has been announced. M
 | [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
+| [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 |
+| [HackDelft](http://hackdelft.com) | Delft | 2017 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
 | [WHAT Datathon](http://what-conference.com/datathon/) | Amsterdam | 2017 |
