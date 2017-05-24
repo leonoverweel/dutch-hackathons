@@ -8,11 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | | 2017 (May 19 - 21) |
-| [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | | 2017 (May 19 - 20) |
-| [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | | 2017 (May 20 - 21) |
-| [Social Hackathon](http://socialhackathon.nl) | Rotterdam | | 2017 (May 20) |
-| [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | | 2017 (May 22 - 24) |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
 | [International Festival of Technology Hackathon](http://ifot-delft.com/en/events/hackathon) | Delft | | 2017 (June 7 - 9) |
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
@@ -33,11 +28,16 @@ This table contains hackathons for which no future edition has been announced. M
 | [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
 | [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
+| [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | 2017 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 |
+| [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | 2017 |
 | [HackDelft](http://hackdelft.com) | Delft | 2017 |
+| [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | 2017 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
+| [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
+| [Social Hackathon](http://socialhackathon.nl) | Rotterdam | 2017 |
 | [WHAT Datathon](http://what-conference.com/datathon/) | Amsterdam | 2017 |
 | [WTHX](https://wthx.org/) | The Hague | [2014](https://wthx.org/#prevEditions), [2015](https://wthx.org/#prevEditions), 2016 |
 | [Xomnia Datathon](http://datathon.xomnia.com/) | Amsterdam | [2016](https://web.archive.org/web/20161004233200/http://datathon.xomnia.com/) |
