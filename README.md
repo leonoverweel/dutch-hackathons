@@ -14,6 +14,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
 | [36 Hour Hackathon](https://www.eventbrite.com/e/36-hour-hackathon-help-shape-the-future-of-a-better-work-life-tickets-34693567394) | Amsterdam | | 2017 (June 17 - 18) |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
+| [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | | 2017 (June 28 - 30) |
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
