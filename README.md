@@ -8,7 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) | 2017 (June 1) |
 | [International Festival of Technology Hackathon](http://ifot-delft.com/en/events/hackathon) | Delft | | 2017 (June 7 - 9) |
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
 | [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
@@ -38,6 +37,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | 2017 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
+| [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) , 2017 |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
 | [Social Hackathon](http://socialhackathon.nl) | Rotterdam | 2017 |
 | [WHAT Datathon](http://what-conference.com/datathon/) | Amsterdam | 2017 |
