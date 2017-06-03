@@ -15,7 +15,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
 | [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | | 2017 (June 28 - 30) |
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
-| [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | | 2017 (July 7) | 
+| [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | | 2017 (July 7) | 
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
