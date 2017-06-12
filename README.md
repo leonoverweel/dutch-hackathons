@@ -8,8 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | | 2017 (June 9 - 11) |
-| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | | 2017 (June 9 - 11) |
 | [36 Hour Hackathon](https://www.eventbrite.com/e/36-hour-hackathon-help-shape-the-future-of-a-better-work-life-tickets-34693567394) | Amsterdam | | 2017 (June 17 - 18) |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | | 2017 (June 23 - 25) |
 | [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | | 2017 (June 28 - 30) |
@@ -26,6 +24,8 @@ This table contains hackathons for which no future edition has been announced. M
 | Hackathon | Location | Past Editions |
 |---|---|---|
 | [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016 |
+| [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | 2017 |
+| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | 2017 |
 | [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
 | [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/) | Groningen | [2017](https://medium.com/bitcoinevangelist/i-was-at-the-biggest-blockchain-hackathon-ever-and-this-is-what-i-learned-73acf55034f2) |
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
