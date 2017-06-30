@@ -11,6 +11,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | | 2017 (July 7) | 
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
+| [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | 2017 (September 23 - 29) |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
 
