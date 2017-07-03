@@ -10,6 +10,7 @@ The table below contains hackathons that have announced their next editions, com
 |---|---|---|---|
 | [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | | 2017 (July 7) | 
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
+| [Hack-A-Holiday: All Women Edition](https://workingatbooking.com/event/hack-holiday-women-edition/) | Amsterdam | | 2017 (July 24 - 26) |
 | [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | | 2017 (September 1) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | 2017 (September 22 - 23)
