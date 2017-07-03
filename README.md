@@ -12,6 +12,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | | 2017 (September 1) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
+| [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | 2017 (September 22 - 23)
 | [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | 2017 (September 23 - 29) |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
