@@ -13,6 +13,7 @@ The table below contains hackathons that have announced their next editions, com
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | 2017 (September 22 - 23) |
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | | 2017 (September 14 - 16) |
+| [Stupid Hackathon Amsterdam](https://www.eventbrite.com/e/stupid-hackathon-amsterdam-2017-tickets-36184840833) | Amsterdam | 2016 | 2017 (September 15) |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | | 2017 (September 23 - 24) |
 | [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | 2017 (September 23 - 29) |
 | [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016 | 2017 (September 28 - 30) |
