@@ -8,8 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | | 2017 (July 7) | 
-| [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016 | 2017 (July 10 - 15) |
 | [Hack-A-Holiday: All Women Edition](https://workingatbooking.com/event/hack-holiday-women-edition/) | Amsterdam | | 2017 (July 24 - 26) |
 | [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | | 2017 (September 1) |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
@@ -41,11 +39,13 @@ This table contains hackathons for which no future edition has been announced. M
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 |
 | [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | 2017 |
 | [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | 2017 |
+| [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016, 2017 |
 | [HackDelft](http://hackdelft.com) | Delft | 2017 |
 | [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | 2017 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
-| [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683) , 2017 |
+| [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683), 2017 |
+| [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | 2017 | 
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
 | [Redesign The Netherlands](http://challengemasters.nl/) | 's-Hertogenbosch | 2017 |
 | [Social Hackathon](http://socialhackathon.nl) | Rotterdam | 2017 |
