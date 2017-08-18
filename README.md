@@ -8,18 +8,18 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | | 2017 (September 1) |
-| [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | 2017 (September 1 - 2) |
-| [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | 2017 (September 22 - 23) |
-| [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | | 2017 (September 14 - 16) |
-| [Stupid Hackathon Amsterdam](https://www.eventbrite.com/e/stupid-hackathon-amsterdam-2017-tickets-36184840833) | Amsterdam | 2016 | 2017 (September 15) |
-| [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | 2017 (September 23 - 24) |
-| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | | 2017 (September 23 - 24) |
-| [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | 2017 (September 23 - 29) |
-| [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016 | 2017 (September 28 - 30) |
-| [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | 2017 (October 14 - 15)
-| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | 2017 (December 9 - 11) |
-| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | 2017 (December 9 - 11) |
+| [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | | September 1, 2017 |
+| [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | September 1 - 2, 2017 |
+| [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | September 22 - 23, 2017 |
+| [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | | September 14 - 16, 2017 |
+| [Stupid Hackathon Amsterdam](https://www.eventbrite.com/e/stupid-hackathon-amsterdam-2017-tickets-36184840833) | Amsterdam | 2016 | September 15, 2017 |
+| [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | September 23 - 24, 2017 |
+| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | | September 23 - 24, 2017 |
+| [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | September 23 - 29, 2017 |
+| [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016 | September 28 - 30, 2017 |
+| [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017
+| [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | December 9 - 11, 2017 |
+| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 9 - 11, 2017 |
 
 ## Past Hackathons
 
