@@ -13,7 +13,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | September 22 - 23, 2017 |
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | | September 14 - 16, 2017 |
 | [Stupid Hackathon Amsterdam](https://www.eventbrite.com/e/stupid-hackathon-amsterdam-2017-tickets-36184840833) | Amsterdam | 2016 | September 15, 2017 |
-| [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | September 23 - 24, 2017 |
+| [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | September 22 - 23, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | | September 23 - 24, 2017 |
 | [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | September 23 - 29, 2017 |
 | [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016 | September 28 - 30, 2017 |
