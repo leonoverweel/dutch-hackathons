@@ -10,6 +10,7 @@ The table below contains hackathons that have announced their next editions, com
 |---|---|---|---|
 | [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | | September 1, 2017 |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/) | September 1 - 2, 2017 |
+| [Qurrent Hackathon](hackathon.qurrent.nl) | Amsterdam | | September 14 - 15, 2017 |
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | | September 14 - 16, 2017 |
 | [Stupid Hackathon Amsterdam](https://www.eventbrite.com/e/stupid-hackathon-amsterdam-2017-tickets-36184840833) | Amsterdam | 2016 | September 15, 2017 |
 | [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | September 22 - 23, 2017 |
