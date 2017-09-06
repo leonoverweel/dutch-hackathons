@@ -16,6 +16,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | September 22 - 23, 2017 |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | | September 22 - 23, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | | September 23 - 24, 2017 |
+| [TADHack](https://tadhack.com/2017/global/tadhack-the-hague/) | The Hague | [2016](http://tadhack.com/2016/) | September 23 - 24, 2017 |
 | [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | September 23 - 29, 2017 |
 | [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016 | September 28 - 30, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
