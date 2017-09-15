@@ -9,6 +9,7 @@ The table below contains hackathons that have announced their next editions, com
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
 | [Qurrent Hackathon](https://hackathon.qurrent.nl) | Amsterdam | | September 14 - 15, 2017 |
+| [Arnhem Hackathon](http://arnhemhackathon.nl/) | Arnhem | | September 15 - 17, 2017 |
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | | September 14 - 16, 2017 |
 | [Stupid Hackathon Amsterdam](https://www.eventbrite.com/e/stupid-hackathon-amsterdam-2017-tickets-36184840833) | Amsterdam | 2016 | September 15, 2017 |
 | [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | | September 22 - 23, 2017 |
