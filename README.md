@@ -18,6 +18,7 @@ The table below contains hackathons that have announced their next editions, com
 | [TADHack](https://tadhack.com/2017/global/tadhack-the-hague/) | The Hague | [2016](http://tadhack.com/2016/) | September 23 - 24, 2017 |
 | [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | | September 23 - 29, 2017 |
 | [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016 | September 28 - 30, 2017 |
+| [HACKUP 2017](https://www.speakup.nl/hackathon/) | Enschede | | October 6 - 7, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
 | [Coffee and Coding](https://coffeeandcoding.nl/) | Groningen | | October 14 - 15, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | December 9 - 11, 2017 |
