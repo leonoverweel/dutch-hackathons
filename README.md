@@ -39,7 +39,6 @@ This table contains hackathons for which no future edition has been announced. M
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2017 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | 2017 |
-| [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 |
 | [Hack-A-Holiday: All Women Edition](https://workingatbooking.com/event/hack-holiday-women-edition/) | Amsterdam | 2017 |
 | [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | 2017 |
 | [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | 2017 |
