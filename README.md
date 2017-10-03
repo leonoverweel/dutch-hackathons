@@ -11,6 +11,7 @@ The table below contains hackathons that have announced their next editions, com
 | [HACKUP 2017](https://www.speakup.nl/hackathon/) | Enschede | | October 6 - 7, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
 | [Coffee and Coding](https://coffeeandcoding.nl/) | Groningen | | October 14 - 15, 2017 |
+| [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016 | October 20 - 21, 2017 |
 | [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | December 9 - 11, 2017 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 9 - 11, 2017 |
@@ -22,7 +23,6 @@ This table contains hackathons for which no future edition has been announced. M
 | Hackathon | Location | Past Editions |
 |---|---|---|
 | [36 Hour Hackathon](https://www.eventbrite.com/e/36-hour-hackathon-help-shape-the-future-of-a-better-work-life-tickets-34693567394) | Amsterdam | 2017 |
-| [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016 |
 | [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | 2017 |
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | 2017 |
 | [Arnhem Hackathon](http://arnhemhackathon.nl/) | Arnhem | 2017 |
