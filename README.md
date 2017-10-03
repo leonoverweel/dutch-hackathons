@@ -1,6 +1,6 @@
 # Dutch Hackathons - hackathonlist.nl
 
-Want to attend a hackathon in the Netherlands? Together, we're building the most comprehensive list of Dutch 'thons. Do you know about a hackathon that's not on this list? Check out the [contribution guide](#contributing) below.
+Want to attend a hackathon in the Netherlands? Together, we're building the most comprehensive list of Dutch hackathons. Do you know about a hackathon that's not on this list? Check out the [contribution guide](#contributing) below.
 
 ## Upcoming Hackathons
 
@@ -11,6 +11,7 @@ The table below contains hackathons that have announced their next editions, com
 | [HACKUP 2017](https://www.speakup.nl/hackathon/) | Enschede | | October 6 - 7, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
 | [Coffee and Coding](https://coffeeandcoding.nl/) | Groningen | | October 14 - 15, 2017 |
+| [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | December 9 - 11, 2017 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 9 - 11, 2017 |
 
