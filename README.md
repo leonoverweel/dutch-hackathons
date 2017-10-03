@@ -9,6 +9,7 @@ The table below contains hackathons that have announced their next editions, com
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
 | [HACKUP 2017](https://www.speakup.nl/hackathon/) | Enschede | | October 6 - 7, 2017 |
+| [YellowTail Hackathon](https://www.eventbrite.nl/e/tickets-yellowtail-hackathon-2017-37272252310) | Culemborg | | October 13 - 14, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
 | [Coffee and Coding](https://coffeeandcoding.nl/) | Groningen | | October 14 - 15, 2017 |
 | [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016 | October 20 - 21, 2017 |
