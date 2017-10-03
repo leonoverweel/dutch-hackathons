@@ -13,6 +13,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
 | [Coffee and Coding](https://coffeeandcoding.nl/) | Groningen | | October 14 - 15, 2017 |
 | [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016 | October 20 - 21, 2017 |
+| [Desire of Innovation Hackathon](https://www.eventbrite.nl/e/registratie-desire-of-innovation-hackathon-38475587518) | Roosendaal | | October 27 - 28, 2017 |
 | [StarApple Hackathon](https://www.starapple.nl/2017/09/27/starapple-hackathon-28-october-2017/) | The Hague | | October 28, 2017 |
 | [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 8 - 10, 2017 |
