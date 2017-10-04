@@ -19,6 +19,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 | November 24 - 26, 2017 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 8 - 10, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | December 9 - 11, 2017 |
+| [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
 
 ## Past Hackathons
 
