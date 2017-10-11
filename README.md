@@ -8,7 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [HACKUP 2017](https://www.speakup.nl/hackathon/) | Enschede | | October 6 - 7, 2017 |
 | [YellowTail Hackathon](https://www.eventbrite.nl/e/tickets-yellowtail-hackathon-2017-37272252310) | Culemborg | | October 13 - 14, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | | October 14 - 15, 2017 |
 | [Coffee and Coding](https://coffeeandcoding.nl/) | Groningen | | October 14 - 15, 2017 |
@@ -46,7 +45,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | 2017 |
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016, 2017 |
 | [HackDelft](http://hackdelft.com) | Delft | 2017 |
-| [Hackup 2020](https://www.speakup.nl/hackathon) | Enschede | 2017 |
+| [Hackup 2017](https://www.speakup.nl/hackathon) | Enschede | 2017 |
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | 2017 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
