@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [Hack Je Plek](https://hackday.mlh.io/Hackjeplek) | Zutphen | | November 13 - 14, 2017 | 
 | [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 | November 24 - 26, 2017 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 8 - 10, 2017 |
