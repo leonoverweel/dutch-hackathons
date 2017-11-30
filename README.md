@@ -8,9 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Hack Je Plek](https://hackday.mlh.io/Hackjeplek) | Zutphen | | November 13 - 14, 2017 | 
-| [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
-| [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 | November 24 - 26, 2017 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 8 - 10, 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015 | December 9 - 11, 2017 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
@@ -37,14 +34,17 @@ This table contains hackathons for which no future edition has been announced. M
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
 | [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2017 |
+| [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | 2017 |
+| [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 | November 24 - 26, 2017 |
 | [Hack-A-Holiday: All Women Edition](https://workingatbooking.com/event/hack-holiday-women-edition/) | Amsterdam | 2017 |
 | [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | 2017 |
 | [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | 2017 |
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016, 2017 |
 | [HackDelft](http://hackdelft.com) | Delft | 2017 |
 | [Hackup 2017](https://www.speakup.nl/hackathon) | Enschede | 2017 |
+| [Hack Je Plek](https://hackday.mlh.io/Hackjeplek) | Zutphen | | November 13 - 14, 2017 | 
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | 2017 |
 | [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
