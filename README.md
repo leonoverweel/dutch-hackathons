@@ -8,9 +8,9 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 8 - 10, 2017 |
 | [Public Health Hack Breda](https://www.ggdwestbrabant.nl/nieuws/2017/11/Public-Health-Hack) | Breda | | December 15 - 16, 2017 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
+| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | April 6 - 8, 2018 |
 | [Accountability Hack](https://accountabilityhack.nl/hackathon/) | The Hague | | June 9, 2018 |
 | [Smart Building Hackathon](http://launchlab.nl/smart-building-hackathon-zwolle/?utm_medium=Referral&utm_source=Business+Talent+Network&utm_campaign=Business+Talent+Network) | Zwolle | | June 24 - 25, 2018 |
 
