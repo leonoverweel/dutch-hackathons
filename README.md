@@ -72,3 +72,5 @@ This table contains hackathons for which no future edition has been announced. M
 ## Contributing
 
 To contribute a hackathon, please fork [this repository](https://github.com/leonoverweel/dutch-hackathons) and add it, maintaining the structure of the table above. Then create a PR that mentions what you've changed, and it'll be merged (and published here) ASAP!
+
+This repository is maintained by [Leon Overweel](https://github.com/leonoverweel/) and [Joost Verbraeken](https://github.com/jverbraeken). See the [contributors page](https://github.com/leonoverweel/dutch-hackathons/graphs/contributors) for all the other great people who have added hackathons!
