@@ -8,7 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | December 8 - 10, 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/en/) | Utrecht | | February 17 - 18, 2018 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | April 6 - 8, 2018 |
@@ -37,7 +36,8 @@ This table contains hackathons for which no future edition has been announced. M
 | [Dutch FinTech Hackathon](http://dutchfintechhackathon.nl/) | Utrecht | [2014](http://dutchfintechhackathon.nl/paygel-wint-eerste-dutch-fintech-hackathon/) |
 | [Dutch Hacking Health](http://dutchhackinghealth.nl/) | (Multiple cities) | 2017 |
 | [Dutch Health Hackathon](http://www.dhh2017.nl/) | Leeuwarden | 2015, 2017 |
-| [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | | November 17 - 18, 2017 |
+| [Dutch Mobility Hackathon](https://www.utrechtinc.nl/en/dutchmobilityhackathon/) | The Hague | 2017 |
+| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | 2015, 2016, 2017 |
 | [FuseHack](http://fusehack.com/) | Amsterdam | 2015 |
 | [Global AI Hackathon](http://ai.hackathon.com/) | Amsterdam | 2017 |
 | [Hack4SmartServices](http://hack4smartservices.com/) | Heerlen | 2017 | November 24 - 26, 2017 |
