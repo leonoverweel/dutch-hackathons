@@ -10,7 +10,10 @@ The table below contains hackathons that have announced their next editions, com
 |---|---|---|---|
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/en/) | Utrecht | | February 17 - 18, 2018 |
 | [Vishack](https://www.farmhack.nl/activiteiten/vishack/) | Stellendam Zeeland | | March 9 - 10, 2018 |
+| [Bright Future](http://brightfuture.hack.nl) | Eindhoven | | March 10 - 11, 2018 |
 | [HEX](http://www.joinhex.com/) | Eindhoven | 2017 | March 16 - 18, 2018 |
+| [NLVMUG Hackathon](https://www.nlvmug.com/hackathon-2018/) | ?? | | March 19, 2018 |
+| [Tech for Good Hackathon](https://mvonederland.nl/event/tech-good-hackathon-track-trace-de-keten) | Eindhoven | | March 22 - 23, 2018 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | April 6 - 8, 2018 |
 | [De Volksbank Hackathon](https://www.devolksbank.nl/werken-bij/hackathon-2018.html) | Utrecht | [2016](https://www.youtube.com/watch?v=KwbiAzzRt1s), [2017](https://www.devolksbank.nl/werken-bij/hackathon-2017-1.html) | May 17 - 18, 2018 |
