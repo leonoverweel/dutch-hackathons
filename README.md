@@ -9,6 +9,7 @@ The table below contains hackathons that have announced their next editions, com
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/en/) | Utrecht | | February 17 - 18, 2018 |
+| [Vishack](https://www.farmhack.nl/activiteiten/vishack/) | Stellendam Zeeland | | March 9 - 10, 2018 |
 | [Bright Future](http://brightfuture.hack.nl) | Eindhoven | | March 10 - 11, 2018 |
 | [HEX](http://www.joinhex.com/) | Eindhoven | 2017 | March 16 - 18, 2018 |
 | [NLVMUG Hackathon](https://www.nlvmug.com/hackathon-2018/) | ?? | | March 19, 2018 |
