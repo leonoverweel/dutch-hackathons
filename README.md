@@ -16,6 +16,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Tech for Good Hackathon](https://mvonederland.nl/event/tech-good-hackathon-track-trace-de-keten) | Eindhoven | | March 22 - 23, 2018 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | April 6 - 8, 2018 |
+| [VG Hackathon](http://2018.vghackathon.nl/) | ?? | | April 9 - 13, 2018 |
 | [De Volksbank Hackathon](https://www.devolksbank.nl/werken-bij/hackathon-2018.html) | Utrecht | [2016](https://www.youtube.com/watch?v=KwbiAzzRt1s), [2017](https://www.devolksbank.nl/werken-bij/hackathon-2017-1.html) | May 17 - 18, 2018 |
 | [Accountability Hack](https://accountabilityhack.nl/hackathon/) | The Hague | | June 9, 2018 |
 | [Smart Building Hackathon](http://launchlab.nl/smart-building-hackathon-zwolle/?utm_medium=Referral&utm_source=Business+Talent+Network&utm_campaign=Business+Talent+Network) | Zwolle | | June 24 - 25, 2018 |
