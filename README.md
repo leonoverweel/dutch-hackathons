@@ -8,7 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Avicenna Hackathon](https://www.avicennahackathon.nl/en/) | Utrecht | | February 17 - 18, 2018 |
 | [Vishack](https://www.farmhack.nl/activiteiten/vishack/) | Stellendam Zeeland | | March 9 - 10, 2018 |
 | [Bright Future](http://brightfuture.hack.nl) | Eindhoven | | March 10 - 11, 2018 |
 | [HEX](http://www.joinhex.com/) | Eindhoven | 2017 | March 16 - 18, 2018 |
@@ -33,7 +32,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | 2017 |
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | 2017 |
 | [Arnhem Hackathon](http://arnhemhackathon.nl/) | Arnhem | 2017 |
-| [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | 2017 |
+| [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | 2017, 2018 |
 | [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | 2017 |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | (Multiple cities) | 2017 |
