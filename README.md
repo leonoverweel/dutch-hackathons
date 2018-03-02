@@ -13,6 +13,7 @@ The table below contains hackathons that have announced their next editions, com
 | [HEX](http://www.joinhex.com/) | Eindhoven | 2017 | March 16 - 18, 2018 |
 | [NLVMUG Hackathon](https://www.nlvmug.com/hackathon-2018/) | ?? | | March 19, 2018 |
 | [24H Hackathon Amsterdam](https://www.facebook.com/events/2379897668702869/) | Amsterdam | | March 19 - 20, 2018 |
+| [ING Hackathon](https://www.ing-events.nl/hackathon2018) | Rotterdam | | March 21 - 22, 2018 |
 | [Tech for Good Hackathon](https://mvonederland.nl/event/tech-good-hackathon-track-trace-de-keten) | Eindhoven | | March 22 - 23, 2018 |
 | [Smart City Hackathon](http://www.smartcitychallenge.net/) | Amsterdam | | March 23 - 24, 2018 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
