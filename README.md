@@ -20,6 +20,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | April 6 - 8, 2018 |
 | [VG Hackathon](http://2018.vghackathon.nl/) | ?? | | April 9 - 13, 2018 |
+| [HackDelft](https://ch.tudelft.nl/association/hackdelft/) | Delft | 2017 | April 28 - 29, 2018 |
 | [De Volksbank Hackathon](https://www.devolksbank.nl/werken-bij/hackathon-2018.html) | Utrecht | [2016](https://www.youtube.com/watch?v=KwbiAzzRt1s), [2017](https://www.devolksbank.nl/werken-bij/hackathon-2017-1.html) | May 17 - 18, 2018 |
 | [Accountability Hack](https://accountabilityhack.nl/hackathon/) | The Hague | | June 9, 2018 |
 | [Smart Building Hackathon](http://launchlab.nl/smart-building-hackathon-zwolle/?utm_medium=Referral&utm_source=Business+Talent+Network&utm_campaign=Business+Talent+Network) | Zwolle | | June 24 - 25, 2018 |
@@ -55,7 +56,6 @@ This table contains hackathons for which no future edition has been announced. M
 | [Hackathon BorderSessions](http://hack-the-planet.nl/bordersessions/) | The Hague | 2017 |
 | [Hackathon Zorg&ICT](https://www.eventbrite.nl/e/tickets-hackathon-zorgict-zorg-op-afstand-33118425101) | Heemstede | 2017 |
 | [Hackatrain](http://hackatrain.nl/) | Amsterdam | [2015](http://nieuws.ns.nl/winnaar-van-1e-hackatrain-ns-op-maat-app/), 2016, 2017 |
-| [HackDelft](http://hackdelft.com) | Delft | 2017 |
 | [Hackup 2017](https://www.speakup.nl/hackathon) | Enschede | 2017 |
 | [Hack Je Plek](https://hackday.mlh.io/Hackjeplek) | Zutphen | | November 13 - 14, 2017 | 
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | 2017 |
