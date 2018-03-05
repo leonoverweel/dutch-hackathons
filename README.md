@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [Smart Charging Challenge](http://www.smartchargingchallenge.com/) | Amsterdam | | March 9 - 10, 2018 |
 | [Vishack](https://www.farmhack.nl/activiteiten/vishack/) | Stellendam Zeeland | | March 9 - 10, 2018 |
 | [Bright Future](http://brightfuture.hack.nl) | Eindhoven | | March 10 - 11, 2018 |
 | [HEX](http://www.joinhex.com/) | Eindhoven | 2017 | March 16 - 18, 2018 |
