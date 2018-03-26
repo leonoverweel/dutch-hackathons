@@ -8,17 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Smart Charging Challenge](http://www.smartchargingchallenge.com/) | Amsterdam | | March 9 - 10, 2018 |
-| [Vishack](https://www.farmhack.nl/activiteiten/vishack/) | Stellendam Zeeland | | March 9 - 10, 2018 |
-| [Bright Future](http://brightfuture.hack.nl) | Eindhoven | | March 10 - 11, 2018 |
-| [HEX](http://www.joinhex.com/) | Eindhoven | 2017 | March 16 - 18, 2018 |
-| [NLVMUG Hackathon](https://www.nlvmug.com/hackathon-2018/) | ?? | | March 19, 2018 |
-| [24H Hackathon Amsterdam](https://www.facebook.com/events/2379897668702869/) | Amsterdam | | March 19 - 20, 2018 |
-| [ING Hackathon](https://www.ing-events.nl/hackathon2018) | Rotterdam | | March 21 - 22, 2018 |
-| [Tech for Good Hackathon](https://mvonederland.nl/event/tech-good-hackathon-track-trace-de-keten) | Eindhoven | | March 22 - 23, 2018 |
-| [Smart City Hackathon](http://www.smartcitychallenge.net/) | Amsterdam | | March 23 - 24, 2018 |
-| [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
-| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | April 6 - 8, 2018 |
+| [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | May 26 - 27, 2018 |
 | [VG Hackathon](http://2018.vghackathon.nl/) | ?? | | April 9 - 13, 2018 |
 | [HackDelft](https://hackdelft.nl) | Delft | 2017 | April 28 - 29, 2018 |
 | [De Volksbank Hackathon](https://www.devolksbank.nl/werken-bij/hackathon-2018.html) | Utrecht | [2016](https://www.youtube.com/watch?v=KwbiAzzRt1s), [2017](https://www.devolksbank.nl/werken-bij/hackathon-2017-1.html) | May 17 - 18, 2018 |
@@ -31,6 +21,7 @@ This table contains hackathons for which no future edition has been announced. M
 
 | Hackathon | Location | Past Editions |
 |---|---|---|
+| [24H Hackathon Amsterdam](https://www.facebook.com/events/2379897668702869/) | Amsterdam | 2018 |
 | [36 Hour Hackathon](https://www.eventbrite.com/e/36-hour-hackathon-help-shape-the-future-of-a-better-work-life-tickets-34693567394) | Amsterdam | 2017 |
 | [ADE Hackathon](https://www.adehack.com/) | Amsterdam | 2016, 2017 |
 | [Amsterdam Hackathon Omgevingswet](https://www.amsterdam.nl/wonen-leefomgeving/hackathon-0/) | Amsterdam | 2017 |
@@ -38,6 +29,8 @@ This table contains hackathons for which no future edition has been announced. M
 | [Arnhem Hackathon](http://arnhemhackathon.nl/) | Arnhem | 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | 2017, 2018 |
 | [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | 2017 |
+| [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | 2018 |
+| [Bright Future](http://brightfuture.hack.nl) | Eindhoven | 2018 |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | (Multiple cities) | 2017 |
 | [Climate Hackathon](http://climatehackathon.nl/) | Rotterdam | [2016](https://web.archive.org/web/20161226141620/http://climatehackathon.nl/nl/home) |
@@ -59,20 +52,26 @@ This table contains hackathons for which no future edition has been announced. M
 | [Hackup 2017](https://www.speakup.nl/hackathon) | Enschede | 2017 |
 | [Hack Je Plek](https://hackday.mlh.io/Hackjeplek) | Zutphen | | November 13 - 14, 2017 | 
 | [Hack the Road](http://events.bemyapp.com/events/view/netherlands/amsterdam/circuit-zandvoort/hack-the-road) | Amsterdam | 2017 |
-| [HEX](http://hackeindhoven.nl) | Eindhoven | 2017 |
+| [HEX](http://joinhex.com) | Eindhoven | 2017, 2018 | 
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
+| [ING Hackathon](https://www.ing-events.nl/hackathon2018) | Rotterdam | 2018 |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683), 2017 |
 | [Qurrent Hackathon](https://hackathon.qurrent.nl) | Amsterdam | 2017 |
 | [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | 2017 | 
 | [MusicEduHack](https://www.eventbrite.nl/e/tickets-musiceduhack-35072562980) | Rotterdam  | 2017 |
 | [Next Mobility Hack](http://nextmobilityhack.nl/) | Eindhoven | [2016](http://nextmobilityhack.nl/1178/) |
+| [NLVMUG Hackathon](https://www.nlvmug.com/hackathon-2018/) | ?? | 2018 |
 | [Public Health Hack Breda](https://www.ggdwestbrabant.nl/nieuws/2017/11/Public-Health-Hack) | Breda | 2017 |
 | [Redesign The Netherlands](http://challengemasters.nl/) | 's-Hertogenbosch | 2017 |
 | [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016, 2017 |
+| [Smart Charging Challenge](http://www.smartchargingchallenge.com/) | Amsterdam | 2018 |
+| [Smart City Hackathon](http://www.smartcitychallenge.net/) | Amsterdam | 2018 |
 | [StarApple Hackathon](https://www.starapple.nl/2017/09/27/starapple-hackathon-28-october-2017/) | The Hague | 2017 |
 | [Social Hackathon](http://socialhackathon.nl) | Rotterdam | 2017 |
 | [Sustainable City Hack](http://cityhack.studiowhy.nl/) | Gelderland | 2017 |
 | [TADHack](https://tadhack.com/) | The Hague | [2016](http://tadhack.com/2016/), 2017 |
+| [Tech for Good Hackathon](https://mvonederland.nl/event/tech-good-hackathon-track-trace-de-keten) | Eindhoven | 2018 |
+| [Vishack](https://www.farmhack.nl/activiteiten/vishack/) | Stellendam Zeeland | 2018 |
 | [WHAT Datathon](http://what-conference.com/datathon/) | Amsterdam | 2017 |
 | [World Port Hackathon](http://worldporthackathon.com/) | Rotterdam | 2013, 2014, [2015](http://www.worldporthackathon.com/2015/), [2016](http://www.worldporthackathon.com/2016/), 2017 |
 | [WTHX](https://wthx.org/) | The Hague | [2014](https://wthx.org/#prevEditions), [2015](https://wthx.org/#prevEditions), 2016 |
