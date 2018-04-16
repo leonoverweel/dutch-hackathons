@@ -9,6 +9,7 @@ The table below contains hackathons that have announced their next editions, com
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
 | [HackDelft](https://hackdelft.nl) | Delft | 2017 | April 28 - 29, 2018 |
+| [MMA Hackathon](http://mma.nl/2018/04/04/mee-aan-mma-hackathon-2018-en-maak-kans-op-10-000-euro/) | Amsterdam | | May 16 - 17, 2018 |
 | [De Volksbank Hackathon](https://www.devolksbank.nl/werken-bij/hackathon-2018.html) | Utrecht | [2016](https://www.youtube.com/watch?v=KwbiAzzRt1s), [2017](https://www.devolksbank.nl/werken-bij/hackathon-2017-1.html) | May 17 - 18, 2018 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | May 26 - 27, 2018 |
 | [Accountability Hack](https://accountabilityhack.nl/hackathon/) | The Hague | | June 9, 2018 |
