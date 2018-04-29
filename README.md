@@ -10,8 +10,12 @@ The table below contains hackathons that have announced their next editions, com
 |---|---|---|---|
 | [MMA Hackathon](http://mma.nl/2018/04/04/mee-aan-mma-hackathon-2018-en-maak-kans-op-10-000-euro/) | Amsterdam | | May 16 - 17, 2018 |
 | [De Volksbank Hackathon](https://www.devolksbank.nl/werken-bij/hackathon-2018.html) | Utrecht | [2016](https://www.youtube.com/watch?v=KwbiAzzRt1s), [2017](https://www.devolksbank.nl/werken-bij/hackathon-2017-1.html) | May 17 - 18, 2018 |
+| [Energy Hack NL](http://utrechtinc.nl/energyhacknl/) | Utrecht | | May 25 - 27, 2018 |
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | May 26 - 27, 2018 |
+| [Eneco Hackathon](https://www.eventbrite.nl/e/tickets-eneco-hackathon-reducing-energy-waste-dutch-data-science-week-2018-44677069317) | Rotterdam | | May 29, 2018 |
+| [Urban Development Hackathon](https://www.eventbrite.nl/e/tickets-gemeente-amsterdam-hackathon-using-image-recognition-to-track-urban-developments-dutch-data-science-44680932873) | Amsterdam | | May 31, 2018 |
 | [Accountability Hack](https://accountabilityhack.nl/hackathon/) | The Hague | | June 9, 2018 |
+| [Adidas Hackathon](https://adidas-hack.com/location/Amsterdam) | Amsterdam | | June 9 - 10, 2018 |
 | [Smart Building Hackathon](http://launchlab.nl/smart-building-hackathon-zwolle/?utm_medium=Referral&utm_source=Business+Talent+Network&utm_campaign=Business+Talent+Network) | Zwolle | | June 24 - 25, 2018 |
 
 ## Past Hackathons
