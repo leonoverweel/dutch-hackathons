@@ -1,6 +1,6 @@
 # Dutch Hackathons - hackathonlist.nl
 
-Want to attend a hackathon in the Netherlands? Together, we're building the most comprehensive list of Dutch hackathons. Do you know about a hackathon that's not on this list? Check out the [contribution guide](#contributing) below.
+Want to attend a hackathon in the Netherlands? Together, we're building the most comprehensive list of Dutch hackathons. Do you know about a hackathon that's not on this list? Check out the [contribution guide](#contributing) below to add it yourself, or send an email to [l.overweel@gmail.com](mailto:l.overweel@gmail.com).
 
 ## Upcoming Hackathons
 
