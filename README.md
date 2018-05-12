@@ -14,6 +14,7 @@ The table below contains hackathons that have announced their next editions, com
 | [Dutch Open Hackathon](https://dutchopenhackathon.com) | Rotterdam | [2015](https://dutchopenhackathon.com/winners-2015), [2016](https://dutchopenhackathon.com/winners-2016) | May 26 - 27, 2018 |
 | [Eneco Hackathon](https://www.eventbrite.nl/e/tickets-eneco-hackathon-reducing-energy-waste-dutch-data-science-week-2018-44677069317) | Rotterdam | | May 29, 2018 |
 | [Urban Development Hackathon](https://www.eventbrite.nl/e/tickets-gemeente-amsterdam-hackathon-using-image-recognition-to-track-urban-developments-dutch-data-science-44680932873) | Amsterdam | | May 31, 2018 |
+| [Beyond Banking Hackathon](https://beyondbanking.nl/) | Halfweg | 2017 | June 8 - 10, 2018 |
 | [Accountability Hack](https://accountabilityhack.nl/hackathon/) | The Hague | | June 9, 2018 |
 | [Adidas Hackathon](https://adidas-hack.com/location/Amsterdam) | Amsterdam | | June 9 - 10, 2018 |
 | [Smart Building Hackathon](http://launchlab.nl/smart-building-hackathon-zwolle/?utm_medium=Referral&utm_source=Business+Talent+Network&utm_campaign=Business+Talent+Network) | Zwolle | | June 24 - 25, 2018 |
@@ -31,7 +32,6 @@ This table contains hackathons for which no future edition has been announced. M
 | [ANWB Hack Camp](https://www.utrechtinc.nl/anwb-hack-camp/) | Utrecht | 2017 |
 | [Arnhem Hackathon](http://arnhemhackathon.nl/) | Arnhem | 2017 |
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | 2017, 2018 |
-| [Beyond Banking Hackathon](https://beyondbanking.nl/hackathon) | Halfweg | 2017 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | 2018 |
 | [Bright Future](http://brightfuture.hack.nl) | Eindhoven | 2018 |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | 2017 |
