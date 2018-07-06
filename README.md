@@ -8,12 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-
-
-
-
-
-
+| [Open Source Hackathon](https://carriere.infosupport.com/augurk/) | Utrecht | | July 28, 2018 |
 
 ## Past Hackathons
 
