@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [Brighthack](https://www.brighthack.eu) | Heerlen | | November 30 - December 2 |
 
 ## Past Hackathons
 
