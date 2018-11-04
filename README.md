@@ -8,8 +8,6 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [RevenYOU Leauge](https://www.revenyou.io/revenyou-league/) | Rotterdam (online) | | July 6 - October 5, 2018 |
-| [Open Source Hackathon](https://carriere.infosupport.com/augurk/) | Utrecht | | July 28, 2018 |
 
 ## Past Hackathons
 
@@ -58,6 +56,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [HUH?! Hogeschool Utrecht Hackathon](https://www.eventbrite.nl/e/tickets-huh-hogeschool-utrecht-hackathon-34025466085) | Utrecht | 2017 |
 | [ING Hackathon](https://www.ing-events.nl/hackathon2018) | Rotterdam | 2018 |
 | [Kart Hackathon](https://www.eventbrite.nl/e/tickets-kart-hackathon-chicks-in-it-33389342422) | Huizen | [2016](https://vimeo.com/197173683), 2017 |
+| [Open Source Hackathon](https://carriere.infosupport.com/augurk/) | Utrecht | 2018 |
 | [Qurrent Hackathon](https://hackathon.qurrent.nl) | Amsterdam | 2017 |
 | [Microsoft Hackathon](external/microsoft-hackathon-2017.pdf) | Schiphol | 2017 | 
 | [MMA Hackathon](http://mma.nl/2018/04/04/mee-aan-mma-hackathon-2018-en-maak-kans-op-10-000-euro/) | Amsterdam | 2018 |
@@ -66,6 +65,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [NLVMUG Hackathon](https://www.nlvmug.com/hackathon-2018/) | ?? | 2018 |
 | [Public Health Hack Breda](https://www.ggdwestbrabant.nl/nieuws/2017/11/Public-Health-Hack) | Breda | 2017 |
 | [Redesign The Netherlands](http://challengemasters.nl/) | 's-Hertogenbosch | 2017 |
+| [RevenYOU Leauge](https://www.revenyou.io/revenyou-league/) | Rotterdam (online) | 2018 |
 | [SCN Hackathon](https://hackathon.stichting-scn.nl/) | Groningen | 2016, 2017 |
 | [Smart Building Hackathon](http://launchlab.nl/smart-building-hackathon-zwolle/?utm_medium=Referral&utm_source=Business+Talent+Network&utm_campaign=Business+Talent+Network) | Zwolle | 2018 |
 | [Smart Charging Challenge](http://www.smartchargingchallenge.com/) | Amsterdam | 2018 |
