@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [HackDelft](https://www.hackdelft.com) | Delft | 2017, 2018 | May 11 - May 12 |
 | [Brighthack](https://www.brighthack.eu) | Heerlen | | November 30 - December 2 |
 
 ## Past Hackathons
