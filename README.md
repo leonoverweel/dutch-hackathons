@@ -8,7 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
-| [Brighthack](https://www.brighthack.eu) | Heerlen | | November 30 - December 2 |
+| [TADHack Global](https://developer.kpn.com/events/tadhack-global-2019-largest-hackathon-worldwide) | Rotterdam | [2014](http://tadhack.com/2014), [2015](http://tadhack.com/2015), [2016](http://tadhack.com/2016/global), [2017](https://tadhack.com/2017/global), [2018](http://www.tadhack.com/2018) | October 12 - 13 |
 
 ## Past Hackathons
 
@@ -27,6 +27,7 @@ This table contains hackathons for which no future edition has been announced. M
 | [Avicenna Hackathon](https://www.avicennahackathon.nl/) | Utrecht | 2017, 2018 |
 | [Beyond Banking Hackathon](https://beyondbanking.nl/) | Halfweg | 2017, 2018 |
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | 2018 |
+| [Brighthack](https://www.brighthack.eu) | Heerlen | 2018 |
 | [Bright Future](http://brightfuture.hack.nl) | Eindhoven | 2018 |
 | [Capgemini Automation Hackathon](https://www.eventbrite.nl/e/capgemini-automation-hackathon-powered-by-aruba-registration-34730356431) | Utrecht | 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | (Multiple cities) | 2017 |
