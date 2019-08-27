@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [Accountability Hack](https://accountabilityhack.nl/) | The Hague | 2017, 2018 | October 4 |
 | [TADHack Global](https://developer.kpn.com/events/tadhack-global-2019-largest-hackathon-worldwide?utm_source=hackathonlist.nl&utm_medium=TADHack&utm_campaign=aug19) | Rotterdam | [2014](http://tadhack.com/2014), [2015](http://tadhack.com/2015), [2016](http://tadhack.com/2016/global), [2017](https://tadhack.com/2017/global), [2018](http://www.tadhack.com/2018) | October 12 - 13 |
 
 ## Past Hackathons
